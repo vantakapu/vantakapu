@@ -9,22 +9,22 @@ I am a masters student pursuing Scientific Instrumentation in Ernst-Abbe-Hochsch
 
 
 ## Education
-Data Science Bootcamp at Jovian (Aug 2022 - Present)
+#### Data Science Bootcamp at Jovian (Aug 2022 - Present)
 
 Major: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics 
 Highlights of the bootcamp are 400+ hours of coursework, 10 coding assignments, 2 projects (Web scraping, EDA)
 
-Masters degree, Ernst-Abbe-Hochschule Jena, Germany
+#### Masters degree at Ernst-Abbe-Hochschule Jena, Germany
 (Oct 2021 - Present)
 
 Major: Scientific computing (Python), Electronic Hardware Systems (C)
 
-Bachelors degree, Jawaharlal Nehru Technological University Hyderabad, India
+#### Bachelors degree from Jawaharlal Nehru Technological University Hyderabad, India
 (Jun 2016 - Apr 2019)
 
 Major: Statistics & Probability, Mathematics, Physics, Material science, Thermodynamics, Machine design
 
-Diploma, State Board of Technical Education and Training Hyderabad, India
+#### Diploma from State Board of Technical Education and Training Hyderabad, India
 (Jun 2013 - Apr 2016)
 
 Major: Manufacturing technology, Material science, Fluid mechanics, Thermodynamics
