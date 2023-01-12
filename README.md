@@ -1,15 +1,11 @@
 ### Ravindhar Reddy Vantakapu 
 Hey GitHub,
 
-
-[LinkedIn](https://www.linkedin.com/in/ravindhar-reddy-vantakapu?lipi=urn:li:page:d_flagship3_profile_view_base_contact_details;jl2xQCMjQQKQ2NzYrdoBYg==)
-
-
 I am a masters student pursuing Scientific Instrumentation in Ernst-Abbe-Hochschule Jena. I have been learning data science & machine learning skills for past 4 months, also worked on Web scraping, SQL, EDA, Tableau projects. Delighted to see myself in data science and machine learning roles.
 
 
 ## Projects
-#### Exploratory Data Analysis and Visualization of Safecast Radiation dataset 
+#### Exploratory Data Analysis and Visualization of Safecast Radiation dataset
 - Safecast radiation dataset collected from Kaggle containing 3M+ rows & 12 columns
 - Merged and Visualized data using Plotly, Folium, Matplotlib to compare radiated countries in the world
 - Discovered most radioactive affected areas Fukushima, California due to human errors and natural resources on earth
@@ -39,8 +35,3 @@ Major: Scientific computing (Python), Electronic Hardware Systems (C)
 (Jun 2016 - Apr 2019)
 
 Major: Statistics & Probability, Mathematics, Physics, Material science, Thermodynamics, Machine design
-
-#### Diploma from State Board of Technical Education and Training Hyderabad, India
-(Jun 2013 - Apr 2016)
-
-Major: Manufacturing technology, Material science, Fluid mechanics, Thermodynamics
