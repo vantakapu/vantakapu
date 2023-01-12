@@ -2,10 +2,26 @@
 Hey GitHub,
 
 
-[LinkedIn](https://www.linkedin.com/in/ravindhar-reddy-vantakapu?lipi=urn:li:page:d_flagship3_profile_view_base_contact_details;jl2xQCMjQQKQ2NzYrdoBYg==) | [Jovian](https://jovian.ai/vravindhar22)
+[LinkedIn](https://www.linkedin.com/in/ravindhar-reddy-vantakapu?lipi=urn:li:page:d_flagship3_profile_view_base_contact_details;jl2xQCMjQQKQ2NzYrdoBYg==)
 
 
 I am a masters student pursuing Scientific Instrumentation in Ernst-Abbe-Hochschule Jena. I have been learning data science & machine learning skills for past 4 months, also worked on Web scraping, SQL, EDA, Tableau projects. Delighted to see myself in data science and machine learning roles.
+
+
+## Projects
+#### Exploratory Data Analysis and Visualization of Safecast Radiation dataset 
+- Safecast radiation dataset collected from Kaggle containing 3M+ rows & 12 columns
+- Merged and Visualized data using Plotly, Folium, Matplotlib to compare radiated countries in the world
+- Discovered most radioactive affected areas Fukushima, California due to human errors and natural resources on earth
+
+#### SQL, Excel, and Tableau 
+- Worked with bookshop dataset from Tableau containing 5000 rows across 13 categories (digits & chars)
+- Structured the data and built dashboard to extract insights using Tableau
+
+#### Web Scraping popular 3D printing CAD models details from GRABCAD using Python & Selenium 
+- Scraped cad models details from grabcad.com/library using Python, Selenium up to 2 pages
+- Defined simple functions to parse title, author, likes, etc. And put the data into a list of dictionaries
+- Exported data contains 200 rows & 7 columns into Pandas data frame and converted to .CSV file
 
 
 ## Education
