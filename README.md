@@ -10,9 +10,6 @@ I am a masters student pursuing Scientific Instrumentation in Ernst-Abbe-Hochsch
 - Merged and Visualized data using Plotly, Folium, Matplotlib to compare radiated countries in the world
 - Discovered most radioactive affected areas Fukushima, California due to human errors and natural resources on earth
 
-#### SQL, Excel, and Tableau 
-- Worked with bookshop dataset from Tableau containing 5000 rows across 13 categories (digits & chars)
-- Structured the data and built dashboard to extract insights using Tableau
 
 #### Web Scraping popular 3D printing CAD models details from GRABCAD using Python & Selenium 
 - Scraped cad models details from grabcad.com/library using Python, Selenium up to 2 pages
