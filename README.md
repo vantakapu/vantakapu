@@ -1,7 +1,7 @@
 ### Ravindhar Reddy Vantakapu 
 Hey GitHub,
 
-I am a masters student pursuing Scientific Instrumentation in Ernst-Abbe-Hochschule Jena. I have been learning data science & machine learning skills for past 5 months, also worked on Web scraping, SQL, EDA, Tableau projects. Delighted to see myself in data science and machine learning roles.
+As a master's student in Scientific Instrumentation, I am constantly striving to expand my knowledge and skills. My passion for data science and machine learning has led me to actively develop these abilities over the past five months by attending a Data Science boot camp and have completed 500+ hours of coursework through hands-on projects involving web scraping, SQL, Tableau, exploratory data analysis (EDA), and machine learning (ML). My passion for understanding and working with data has only grown stronger and I am excited to explore professional opportunities in data science and machine learning where I can utilize my skills and continue to learn and grow.
 
 
 ## Projects
