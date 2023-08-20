@@ -4,9 +4,10 @@ Reach me: [LinkedIn](https://www.linkedin.com/in/ravindhar-reddy-vantakapu/)
 
 ## Projects
 #### Prediction of the flight price using XGBoost regressor machine learning algorithm
-•	Worked with flight dataset collected from Kaggle containing 300k rows & 13 columns
-•	Visualized the data and found correlations between features using Pandas, Numpy, Plotly, Seaborn, and Matplotlib
-•	Trained the data using the XGBoost regressor algorithm and got an accuracy score of 96.8% for test data
+
+- Worked with flight dataset collected from Kaggle containing 300k rows & 13 columns
+- Visualized the data and found correlations between features using Pandas, Numpy, Plotly, Seaborn, and Matplotlib
+- Trained the data using the XGBoost regressor algorithm and got an accuracy score of 96.8% for test data
 
 
 #### Exploratory Data Analysis and Visualization of Safecast Radiation dataset
